@@ -4,8 +4,8 @@
 
 > Sixty days of programming in Python and providing English explanations to improve both my English and my Python skills.
 
-- [ ] Day 1
->Code Explanation
+- [x] Day 1
+> On the first day, we have the famous "Hello, World!", the first step to learning and improving any language.
 
 - [ ] Day 2
 >Code Explanation
