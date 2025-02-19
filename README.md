@@ -5,10 +5,10 @@
 > Sixty days of programming in Python and providing English explanations to improve both my English and my Python skills.
 
 - [x] Day 1
-> On the first day, we have the famous "Hello, World!", the first step to learning and improving any language.
+> On the first day, we started with the famous "Hello, World!", the first step to learning and improving any language.
 
 - [ ] Day 2
->Code Explanation
+> I Created a simple code to sum two numbers. First I made a basic version and then I created one using functions.
 
 - [ ] Day 3
 >Code Explanation
