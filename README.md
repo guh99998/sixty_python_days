@@ -8,10 +8,10 @@
 > On the first day, we started with the famous "Hello, World!", the first step to learning and improving any language.
 
 - [ ] Day 2
-> I Created a simple code to sum two numbers. First I made a basic version and then I created one using functions.
+> I created a simple code to sum two numbers. First I made a basic version and then I created one using functions.
 
 - [ ] Day 3
->Code Explanation
+> I created a simple code to check if a number is odd or even.
 
 - [ ] Day 4
 >Code Explanation
