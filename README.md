@@ -14,7 +14,7 @@
 > I created a simple code to check if a number is odd or even.
 
 - [ ] Day 4
->Code Explanation
+> I created a basic script to show how loops work in Python.
 
 - [ ] Day 5
 >Code Explanation
