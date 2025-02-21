@@ -7,17 +7,17 @@
 - [x] Day 1
 > On the first day, we started with the famous "Hello, World!", the first step to learning and improving any language.
 
-- [ ] Day 2
+- [x] Day 2
 > I created a simple code to sum two numbers. First I made a basic version and then I created one using functions.
 
-- [ ] Day 3
+- [x] Day 3
 > I created a simple code to check if a number is odd or even.
 
-- [ ] Day 4
+- [x] Day 4
 > I created a basic script to show how loops work in Python.
 
-- [ ] Day 5
->Code Explanation
+- [x] Day 5
+> I created a basic script to compute the square of a given number.
 
 - [ ] Day 6
 >Code Explanation
