@@ -19,8 +19,8 @@
 - [x] Day 5
 > I created a basic script to compute the square of a given number.
 
-- [ ] Day 6
->Code Explanation
+- [x] Day 6
+> I wrote a simple script to loop through a list of fruits.
 
 - [ ] Day 7
 >Code Explanation
