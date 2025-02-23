@@ -22,8 +22,8 @@
 - [x] Day 6
 > I wrote a simple script to loop through a list of fruits.
 
-- [ ] Day 7
->Code Explanation
+- [x] Day 7
+> I created a simple dictionary.
 
 - [ ] Day 8
 >Code Explanation
