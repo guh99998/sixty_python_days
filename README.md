@@ -25,8 +25,8 @@
 - [x] Day 7
 > I created a simple dictionary.
 
-- [ ] Day 8
->Code Explanation
+- [x] Day 8
+> I created a simple function with a conditional to check if an age is under 18.
 
 - [ ] Day 9
 >Code Explanation
