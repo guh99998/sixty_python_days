@@ -37,8 +37,8 @@
 - [x] Day 11
 > I created a simple ordered list in Python.
 
-- [ ] Day 12
->Code Explanation
+- [x] Day 12
+> I created a simple script for linear searchthat looks for a number in an ordered list.
 
 - [ ] Day 13
 >Code Explanation
