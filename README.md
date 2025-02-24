@@ -34,8 +34,8 @@
 - [x] Day 10
 > I created a password generator in Python.
 
-- [ ] Day 11
->Code Explanation
+- [x] Day 11
+> I created a simple ordered list in Python.
 
 - [ ] Day 12
 >Code Explanation
