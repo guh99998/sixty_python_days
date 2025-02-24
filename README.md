@@ -40,8 +40,8 @@
 - [x] Day 12
 > I created a simple script for linear searchthat looks for a number in an ordered list.
 
-- [ ] Day 13
->Code Explanation
+- [x] Day 13
+> I created a simple factorial function.
 
 - [ ] Day 14
 >Code Explanation
