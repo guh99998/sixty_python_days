@@ -29,7 +29,7 @@
 > I created a simple function with a conditional to check if an age is under 18.
 
 - [ ] Day 9
->Code Explanation
+> I created a simple counter function.
 
 - [ ] Day 10
 >Code Explanation
