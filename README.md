@@ -28,11 +28,11 @@
 - [x] Day 8
 > I created a simple function with a conditional to check if an age is under 18.
 
-- [ ] Day 9
+- [x] Day 9
 > I created a simple counter function.
 
-- [ ] Day 10
->Code Explanation
+- [x] Day 10
+> I created a password generator in Python.
 
 - [ ] Day 11
 >Code Explanation
