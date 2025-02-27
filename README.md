@@ -43,8 +43,8 @@
 - [x] Day 13
 > I created a simple factorial function.
 
-- [ ] Day 14
->Code Explanation
+- [x] Day 14
+> I created a simple function to check of prime numbers.
 
 - [ ] Day 15
 >Code Explanation
