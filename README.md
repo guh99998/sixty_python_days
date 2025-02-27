@@ -46,8 +46,8 @@
 - [x] Day 14
 > I created a simple function to check of prime numbers.
 
-- [ ] Day 15
->Code Explanation
+- [x] Day 15
+> I created a simple code to display the first 10 Fibonacci numbers.
 
 - [ ] Day 16
 >Code Explanation
