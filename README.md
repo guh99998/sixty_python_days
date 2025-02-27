@@ -45,12 +45,13 @@
 
 - [x] Day 14
 > I created a simple function to check of prime numbers.
+Note: the commit from that day wasn't correct.
 
 - [x] Day 15
 > I created a simple code to display the first 10 Fibonacci numbers.
 
-- [ ] Day 16
->Code Explanation
+- [x] Day 16
+> I created a simple code to check if two words are anagrams.
 
 - [ ] Day 17
 >Code Explanation
