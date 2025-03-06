@@ -59,8 +59,8 @@ Note: the commit from that day wasn't correct.
 - [x] Day 18
 > I created a simple script to count every word in a phrase.
 
-- [ ] Day 19
->Code Explanation
+- [x] Day 19
+> I created a simple function to calculate the average of some grades.
 
 - [ ] Day 20
 >Code Explanation
