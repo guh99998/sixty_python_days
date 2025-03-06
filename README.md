@@ -56,8 +56,8 @@ Note: the commit from that day wasn't correct.
 - [x] Day 17
 > I created a simple function to check if a word is a palindrome.
 
-- [ ] Day 18
->Code Explanation
+- [x] Day 18
+> I created a simple script to count every word in a phrase.
 
 - [ ] Day 19
 >Code Explanation
