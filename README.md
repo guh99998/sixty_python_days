@@ -53,8 +53,8 @@ Note: the commit from that day wasn't correct.
 - [x] Day 16
 > I created a simple code to check if two words are anagrams.
 
-- [ ] Day 17
->Code Explanation
+- [x] Day 17
+> I created a simple function to check if a word is a palindrome.
 
 - [ ] Day 18
 >Code Explanation
